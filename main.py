@@ -1,6 +1,6 @@
 #Data Transfer QC Py
-#Monica Hanson
-#8/14/2014
+#Monica (Hanson) Jasper
+#Created: 8/14/2014
 
 #Goal: take a random sample of well bottom records, and compare wells in the well_edit table to the well_delivery table to
 #ensure that nightly data loads are successfully moving data, and that many of the key attributes match between schemas.
